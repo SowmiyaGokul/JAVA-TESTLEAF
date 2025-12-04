@@ -1,0 +1,33 @@
+package day1.sample;
+
+public class corejava {
+
+	public static void main(String[] args) {
+	 
+	
+		String name= "sowmiya";
+		
+		int age = 35;
+		
+		float height= 5.6F;
+		
+		long phone=234523523531L;
+		
+		char initial='A';
+		
+		short acc=10000;
+		
+		boolean human=true;	
+		
+		System.out.println("my name is-->  " + name);
+		System.out.println("my age is--->  " + age);
+		System.out.println("am tall--->"  + height);
+		System.out.println("ring me at-->  " + phone);
+		System.out.println("my last name--> " + initial);
+		System.out.println("my balance :)-->  " + acc);
+		System.out.println("ofcuz--->  " + human);
+	} 
+	
+	
+	
+}
