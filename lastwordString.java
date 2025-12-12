@@ -19,7 +19,7 @@ public class lastwordString {
         	 System.out.println("length of last word  = " +count); }}
 
     
-       
+     
 
 	
 
